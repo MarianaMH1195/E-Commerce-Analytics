@@ -1,0 +1,31 @@
+id_producto,nombre_producto,id_vendedor,categoria,precio
+1,Mat de Yoga 1,8,Deportes,176.23
+2,Secador 2,2,Deportes,81.66
+3,Mancuernas 3,4,Electrónica,290.78
+4,Perfume 4,5,Hogar,299.23
+5,Camisa 5,10,Deportes,47.64
+6,Pantalón 6,4,Hogar,199.65
+7,Aspiradora 7,7,Deportes,62.44
+8,Mancuernas 8,3,Hogar,104.06
+9,Mat de Yoga 9,3,Moda,39.05
+10,Secador 10,9,Electrónica,266.85
+11,Pantalón 11,6,Electrónica,231.74
+12,Smartphone 12,2,Moda,151.52
+13,Perfume 13,6,Belleza,291.41
+14,Secador 14,7,Moda,19.14
+15,Mancuernas 15,10,Hogar,291.79
+16,Cafetera 16,8,Belleza,123.34
+17,Smartphone 17,4,Belleza,44.98
+18,Pantalón 18,2,Deportes,208.69
+19,Aspiradora 19,8,Hogar,48.86
+20,Cafetera 20,6,Belleza,204.93
+21,Cafetera 21,10,Moda,112.88
+22,Pantalón 22,10,Deportes,62.88
+23,Smartphone 23,8,Belleza,83.14
+24,Secador 24,10,Deportes,191.0
+25,Mat de Yoga 25,8,Hogar,219.94
+26,Mat de Yoga 26,10,Moda,29.31
+27,Cafetera 27,3,Electrónica,179.07
+28,Cafetera 28,2,Belleza,195.59
+29,Pantalón 29,5,Electrónica,111.49
+30,Secador 30,9,Moda,164.64
