@@ -1,4 +1,4 @@
-# 📊 E-Commerce Analytics - End-to-End Executive Dashboard
+# 📊 E-Commerce Analytics 
 
 ![E-Commerce Analytics Dashboard](assets/dashboard_preview.png)
 
