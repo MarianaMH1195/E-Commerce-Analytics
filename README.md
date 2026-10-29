@@ -93,9 +93,6 @@ El sistema procesa datos relacionales divididos en las siguientes dimensiones y 
 - **Microsoft Power BI Desktop** - Modelado de datos en estrella y diseño de dashboards[cite: 2]
 - **DAX (Data Analysis Expressions)** - Creación de medidas financieras y métricas dinámicas[cite: 2]
 
-### Control de Versiones y Documentación
-- **Git & GitHub** - Control de versiones y alojamiento del proyecto[cite: 2]
-- **Markdown** - Documentación técnica del repositorio[cite: 2]
 
 ---
 
